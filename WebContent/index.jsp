@@ -10,7 +10,7 @@
 	<header>헤더입니다
 		<div>회원가입</div>
 		<div>about</div>
-	</header>
+		<div>관리자</div>
 	<article>본문입니다
 		<section>기사1</section>
 		<section>기사2</section>
